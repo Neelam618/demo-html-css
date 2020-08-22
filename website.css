@@ -130,6 +130,7 @@ nav a:hover, nav a:focus{
 	border: 20px solid #efefef;
 	padding: 1.5em;
 	margin-bottom: 2em;
+	align-items: center;
 
 }
 .widget-title{
